@@ -1,6 +1,6 @@
 import requests
 
-token = '2de0ce70c3ef46d7240fbf2f85742a11'
+token = 'токен из телеграма'
 photo = 'https://i.pinimg.com/originals/80/12/9b/80129b3b19561652c181d2dcb16a0af6.png'
 
 # response = requests.post('https://pokemonbattle.me:5000/trainers/reg', json = {
