@@ -1,3 +1,4 @@
+
 import requests
 import pytest
 
@@ -36,3 +37,4 @@ def test_agent():
     }, headers={"Authorization":f"Token {token_app}"})
 
     assert response2.status_code == 201
+

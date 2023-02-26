@@ -1,3 +1,4 @@
+
 import requests
 
 response = requests.post("https://petstore.swagger.io/v2/pet", json={
